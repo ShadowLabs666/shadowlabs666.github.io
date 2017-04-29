@@ -1,0 +1,29 @@
+#fullpage{
+	background-color: black;
+	background-size: full;
+
+}
+
+#header{
+	color: white;
+	font-style: italic;
+	font-family: Roman;
+	text-shadow: 2px 2px 5px red;
+	font-size: 100px 20px;
+}
+
+
+#section1 {
+	font-style: normal;
+	font-family: Roman;
+
+
+}
+
+#section1{
+	font-color:white;
+}
+
+#titles{
+
+}
